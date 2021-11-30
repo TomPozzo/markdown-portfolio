@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Project Management
+* Data Analysis
+* Coding
+  - Python
+  - SQL
+  - Tableau
